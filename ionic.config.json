@@ -1,0 +1,8 @@
+{
+  "name": "Vue Ionic test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "9756f05c"
+}
